@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8946ffa7d8ab4f38992dc9d70f2a981, type: 3}
+  m_Name: HajimarinomuraMeganeJK2_5
+  m_EditorClassIdentifier: 
+  conversationLines:
+  - text: "\u30A6\u30AD\u30A4\u30A4\u30A4\u30A4\u30FC\u30FC\u30FC\u30FC\u30FC\uFF01\uFF01\uFF01\uFF01"
+  converSationSelectios: []

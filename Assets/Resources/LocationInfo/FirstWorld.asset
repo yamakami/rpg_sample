@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efb8814eed7a0436f997575b81a0ede4, type: 3}
+  m_Name: FirstWorld
+  m_EditorClassIdentifier: 
+  location: {fileID: 7721493321430335736, guid: 19aec8e8b66cf45fda315f44b36316c8,
+    type: 3}
+  areas:
+  - {fileID: 11400000, guid: 8909d03edc31140d3b3e58757fe7d591, type: 2}
+  - {fileID: 11400000, guid: ecbf115e4e97447b0bd22cdecf1c26b9, type: 2}
